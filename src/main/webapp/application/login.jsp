@@ -11,7 +11,7 @@
     <title>登陆</title>
 </head>
 <body>
-    <form method="post" action="">
+    <form method="post" action="student/login">
         姓名：<input type="text" id="stuName" name="stuName" >
         密码：<input type="text" id="password" name="password"/>
         <input type="submit" value="登陆">
